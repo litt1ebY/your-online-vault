@@ -11,15 +11,25 @@ A secure, encrypted personal vault application for storing passwords, documents,
 - **Modern UI**: Clean, responsive interface built with React and TailwindCSS
 - **TypeScript**: Fully typed for better development experience
 
-## 🚀 Quick Start
+## 🚀 How to Use This App
 
-### Prerequisites
+### Option 1: 🌐 Use Online (Easiest - No Setup Required)
 
+**Just visit the live website:** 
+👉 **[https://litt1eby.github.io/your-online-vault/](https://litt1eby.github.io/your-online-vault/)**
+
+- No installation needed
+- Works on any device with a web browser
+- All data stays on your device (local storage)
+- Start using immediately!
+
+### Option 2: 💻 Run Locally (For Developers)
+
+**Prerequisites:**
 - Node.js (version 14 or higher)
 - npm or yarn
 
-### Installation
-
+**Steps:**
 1. Clone the repository:
 ```bash
 git clone https://github.com/litt1ebY/your-online-vault.git
@@ -37,6 +47,18 @@ npm run dev
 ```
 
 4. Open your browser and navigate to `http://localhost:5173`
+
+### Option 3: 📱 Download as Desktop App (Coming Soon)
+
+- Desktop version using Electron
+- Offline functionality
+- System notifications
+
+### Option 4: 🔗 Use as PWA (Progressive Web App)
+
+1. Visit the live website: [https://litt1eby.github.io/your-online-vault/](https://litt1eby.github.io/your-online-vault/)
+2. Click the "Install" button in your browser
+3. Use it like a native app on your device
 
 ## 🛠️ Available Scripts
 
